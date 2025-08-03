@@ -58,9 +58,3 @@ O projeto segue o seguinte fluxo de dados:
 5.  **Orquestração:**
     * Um **Data Pipeline** é configurado para executar os três notebooks em sequência.
     * O pipeline é **agendado** para rodar diariamente, garantindo que o relatório esteja sempre atualizado sem intervenção manual.
-
-
----
-
-### ✒️ Autor
-Alexon Peot
